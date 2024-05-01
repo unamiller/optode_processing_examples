@@ -1,0 +1,2 @@
+﻿serial_number,station,latitude,longitude,nominal_depth,deployment_caldip_id,deployment_calcast_id,recovery_calcast_id,microcat_filename,deployment_cruise_filename,recovery_cruise_filename,optode_caldip_filename,optode_deployment_filename,optode_cal_coeffs_filename
+204368,M1,59.903,-41.11,50,4,12,17,M1_OS_OSNAP-WHOI_M1_202008_MCTD_50m.nc,downcasts_AR46.csv,downcasts_AR69_01.csv,RBRCONCERTO_204368_20200816_0002.txt,m1-01_sn204368_data.txt,aacal_204368.json
