@@ -1,2 +1,5 @@
 ﻿serial_number,station,latitude,longitude,nominal_depth,deployment_caldip_id,deployment_calcast_id,recovery_calcast_id,microcat_filename,deployment_cruise_filename,recovery_cruise_filename,optode_caldip_filename,optode_deployment_filename,optode_cal_coeffs_filename
 204368,M1,59.903,-41.11,50,4,12,17,M1_OS_OSNAP-WHOI_M1_202008_MCTD_50m.nc,downcasts_AR46.csv,downcasts_AR69_01.csv,RBRCONCERTO_204368_20200816_0002.txt,m1-01_sn204368_data.txt,aacal_204368.json
+204381,M3,59.819,-40.275,1000,4,10,10,M3_OS_OSNAP-WHOI_M3_202008_MCTD_1000m.nc,downcasts_AR46.csv,downcasts_AR69_01.csv,RBRCONCERTO_204381_20200815_2354.txt,m3-01_sn204381_data.txt,aacal_204381.json
+204380,M3,59.819,-40.275,2557,4,10,10,M3_OS_OSNAP-WHOI_M3_202008_MCTD_2517m.nc,downcasts_AR46.csv,downcasts_AR69_01.csv,RBRCONCERTO_204380_20200816_0001.txt,m3-08_sn204380_data.txt,aacal_204380.json
+,,,,,,,,,,,,,
